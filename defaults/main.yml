@@ -1,2 +1,10 @@
 ---
+# @var bginfo_download_url:description: Download URL
 bginfo_download_url: https://download.sysinternals.com/files/BGInfo.zip
+
+# @var bginfo_install_dir:description: Installation directory
+bginfo_install_dir: '%SystemDrive%\BGInfo'
+
+# @var bginfo_startmenu_autostart:description: Add BGInfo into startmenu autostart 
+bginfo_startmenu_autostart: true
+...
